@@ -1,0 +1,103 @@
+  /* css reset */
+        body{
+        font-family: cursive;
+            background-image: url('hira.jpg'); 
+        
+            width: auto;
+         }
+         .left{
+            display: inline-block;
+            position: absolute;
+            left: 60px;
+    top: 20px;
+
+         }
+         .left img{
+            width:134px;
+         }
+         .left div{
+            text-align: center;
+line-height: 19px;
+            font-size: 25px;
+         }
+         .mid{
+            display: block;
+            width: 45%;         
+            margin:  40px auto; 
+            top: 20px; 
+
+
+         }
+         .right{
+                                    display: inline-block;
+                                    position: absolute;
+                                    right:34px;
+                                    top: 20px;
+
+
+
+         }
+         .navbar{
+            display: inline-block;
+           
+
+         }
+         .navbar li{
+            display: inline-block;
+             font-size: larger;
+    
+         }
+         .navbar li a{
+            text-decoration: none;
+            padding: 15px ;
+         }
+         .navbar li a:hover{
+            color: grey;
+            text-decoration: underline;
+         }
+         .btn{
+            margin: 4px 14px;
+            background-color: black;
+            color: white;
+            padding: 3px 4px;
+            border: 2px solid grey;
+            border-radius: 10px;
+            font-size: 20px;
+            cursor: pointer;
+         }
+         .btn:hover{
+            background-color: blue;
+         }
+         .container{
+    
+            position: relative;
+            top: 120px;
+            left: 30px;
+
+            border: 2px solid black;
+            padding: 60px;
+            width:33%;
+            margin: 20px;
+            border-radius: 6px;
+
+         }
+         .form input{
+            text-align: center;
+            display: block;
+            font-size: xx-large;
+            padding: 6px;
+            margin:  16px auto;
+            width:auto;
+            border-radius: 14px;
+            
+         }
+         .form button{
+            margin: auto;
+            display: block;
+         }
+
+         .container h2{
+            text-align: center;
+            color: blue;
+         }
+         
