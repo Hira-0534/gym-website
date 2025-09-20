@@ -1,7 +1,7 @@
 # Gym Website 🏋️‍♀️  
 
 This is my first web development project, built using **HTML5** and **CSS3**.  
-It features a clean and simple homepage with a navigation bar, a styled registration form, and a gym-themed background image.  
+It features a clean and simple homepage with a navigation bar, a styled registration form. 
 
 This project is part of my learning journey in the Web Development Roadmap and showcases my initial understanding of frontend structure and styling.  
 
